@@ -20,7 +20,7 @@ When assessing temperatures in the months of June and December there were 1700 a
 Additional queries could look at precipitation in the two months as well to get a good idea of weather conditions. 
 
 The first is a query to extract precipitation observations for the month of June.
-![June](http://url/to/img.png)
+![June](https://github.com/Aleahkita/Surfs_up/blob/main/Precipitation_June.png)
 
 The second query extracts precipitation observations for the month of December.
 ![Dec](http://url/to/img.png)
