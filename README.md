@@ -23,4 +23,4 @@ The first is a query to extract precipitation observations for the month of June
 ![June](https://github.com/Aleahkita/Surfs_up/blob/main/Precipitation_June.png)
 
 The second query extracts precipitation observations for the month of December.
-![Dec](http://url/to/img.png)
+![Dec](https://github.com/Aleahkita/Surfs_up/blob/main/Precipitation_Dec.png)
